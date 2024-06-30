@@ -1,6 +1,6 @@
 # imk_app
 
-A new Flutter project.
+
 ![image](https://github.com/AbdillahBS/Akademi_Digital_App/assets/121353533/1da2ac07-f619-4e8e-8ebf-29c354d80826)
 ![image](https://github.com/AbdillahBS/Akademi_Digital_App/assets/121353533/54ff1761-b24b-4578-95fb-7d2c7097afd6)
 ![image](https://github.com/AbdillahBS/Akademi_Digital_App/assets/121353533/ede7858a-9eb3-44be-891e-7306bf5a6d3f)
